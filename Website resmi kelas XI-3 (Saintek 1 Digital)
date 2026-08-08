@@ -320,7 +320,6 @@ const TUGAS=[
 
 const CALENDAR=[
  {d:"18",b:"AGT",t:"Upacara & Lomba 17-an Susulan",s:"Lapangan sekolah, 07.00 WIB"},
- {d:"02",b:"SEP",t:"Studi Tur Saintek",s:"Kunjungan laboratorium & museum sains"},
  {d:"22",b:"SEP",t:"Ulangan Tengah Semester Ganjil",s:"Berlangsung selama satu minggu"},
  {d:"14",b:"OKT",t:"Pentas Seni (Pensi) Angkatan",s:"Aula sekolah, pukul 13.00 WIB"},
  {d:"09",b:"NOV",t:"Kerja Bakti & Kebersihan Kelas",s:"Bersama wali kelas dan pengurus"},
@@ -328,9 +327,7 @@ const CALENDAR=[
 ];
 
 const MADING=[
- {ic:"🚌",t:"Studi Tur ke Kawah Putih",tag:"Studi Tur",d:"Dokumentasi perjalanan angkatan XI Saintek menyusuri destinasi edukatif alam."},
  {ic:"🎤",t:"Pentas Seni Angkatan 2026",tag:"Pensi",d:"Penampilan musik, tari, dan drama dari perwakilan setiap kelas."},
- {ic:"🧹",t:"Kerja Bakti Jumat Bersih",tag:"Kerja Bakti",d:"Kegiatan rutin membersihkan lingkungan kelas dan taman sekolah."},
  {ic:"🔬",t:"Praktikum Biologi Lapangan",tag:"Akademik",d:"Pengamatan ekosistem di area sekitar sekolah bersama Ibu Try Ade."},
  {ic:"🏆",t:"Lomba Cerdas Cermat Saintek",tag:"Lomba",d:"XI-3 mengirimkan tiga tim terbaik ke babak final tingkat sekolah."},
  {ic:"🕌",t:"Peringatan Maulid Nabi",tag:"Keagamaan",d:"Ceramah, lomba adzan, dan makan bersama seluruh angkatan."},
